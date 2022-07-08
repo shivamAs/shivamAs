@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hactech207@gmail.com**
 
-- ⚡ Fun fact **I like to code frontend.**
+- ⚡ True fact **I like to code frontend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
